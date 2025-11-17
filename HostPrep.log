@@ -29,13 +29,13 @@ Transcript started, output file is D:\LabSetup\HostPrep.log
 2025-17-11 11:21:38 [INFO] - 🧠 CPU Cores: 24
 2025-17-11 11:21:38 [INFO] - 🧠 RAM: 63.7 GB
 2025-17-11 11:21:38 [INFO] - 🧠 Free Disk (C:): 555.8 GB
-2025-17-11 11:21:38 [INFO] - ✅ Lab folder exists: D:\[LAB_FOLDER]
+2025-17-11 11:21:38 [INFO] - ✅ Lab folder exists: D:\Win11Lab
 2025-17-11 11:21:38 [INFO] - ✅ Lab folder permissions verified
 2025-17-11 11:21:38 [INFO] - 
 =========================================
 2025-17-11 11:21:38 [INFO] - ✅ Host environment is ready for lab provisioning.
 2025-17-11 11:21:38 [INFO] - =========================================
-2025-17-11 11:21:38 [INFO] - Lab Folder: D:\[LAB_FOLDER]
+2025-17-11 11:21:38 [INFO] - Lab Folder: D:\Win11Lab
 2025-17-11 11:21:38 [INFO] - Virtual Switch: External 2
 2025-17-11 11:21:38 [INFO] - 
 You may now run Setup.exe from the extracted lab kit.
